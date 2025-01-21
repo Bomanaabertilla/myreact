@@ -6,5 +6,7 @@ function App() {
     </>
   );
 }
+// component
+
 
 export default App;
