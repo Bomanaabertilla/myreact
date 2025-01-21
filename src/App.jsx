@@ -1,12 +1,10 @@
-
+import Hello from "./components/Hello";
 function App() {
-  
-
   return (
     <>
-      Hello World
+      <Hello />
     </>
   );
 }
 
-export default App
+export default App;
